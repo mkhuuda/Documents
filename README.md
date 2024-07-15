@@ -62,6 +62,7 @@ _**Mengurutkan Data**_
 Pilih menu 6 untuk mengurutkan data berdasarkan stok terkecil atau terbesar.
 
 
+
 **PENGEMBANGAN**
 
 Program dapat di integrasikan dengan Program Jual Beli dan Pembelian Stok agar dapat digunakan secara optimal.
