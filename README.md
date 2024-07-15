@@ -1,7 +1,7 @@
 **PROGRAM PENGELOLAAN GUDANG (STOK)**
 
 Program ini digunakan untuk mengelola stok gudang di Toko X. 
-Program dapat digunakan oleh Pengelola Gudang untuk memngelola, memperbarui dan melihat stok barang dan harga berdasarkan nama barang dan kategorinya.
+Program dapat digunakan oleh Pengelola Gudang untuk mengelola, memperbarui dan melihat stok barang dan harga berdasarkan nama barang dan kategorinya.
 
 
 
