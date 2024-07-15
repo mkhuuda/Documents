@@ -7,18 +7,24 @@ Program dapat digunakan oleh Pengelola Gudang untuk memngelola, memperbarui dan 
 
 **FITUR**
 
-Read Data: Menampilkan data stok gudang yang tersedia.
-Create Data: Menambahkan data baru ke dalam stok gudang.
-Update Data: Memperbarui data yang sudah ada berdasarkan Kode Barang.
-Delete Data: Menghapus data berdasarkan Kode Barang.
-Filter Data: Memfilter data berdasarkan Kategori atau Nama Produk.
-Sort Data: Mengurutkan data berdasarkan stok terkecil atau terbesar.
+_Read Data_: Menampilkan data stok gudang yang tersedia.
+
+_Create Data_: Menambahkan data baru ke dalam stok gudang.
+
+_Update Data_: Memperbarui data yang sudah ada berdasarkan Kode Barang.
+
+_Delete Data_: Menghapus data berdasarkan Kode Barang.
+
+_Filter Data_: Memfilter data berdasarkan Kategori atau Nama Produk.
+
+_Sort Data_: Mengurutkan data berdasarkan stok terkecil atau terbesar.
 
 
 
 **PENGGUNAAN**
 
 Jalankan script main.py untuk memulai program:
+
 python main.py
 
 
