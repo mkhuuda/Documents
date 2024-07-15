@@ -60,6 +60,7 @@ Pilih menu 4 untuk menghapus data.
 Masukkan Kode Barang yang ingin dihapus dan konfirmasi penghapusan.
 
 **_Memfilter Data_**
+
 Pilih menu 5 untuk memfilter data.
 Pilih filter berdasarkan Kategori atau Nama Produk.
 
